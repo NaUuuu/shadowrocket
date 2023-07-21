@@ -1,6 +1,7 @@
 # DOMAIN-SUFFIX
 DOMAIN-SUFFIX,gotokeep.com
 DOMAIN-SUFFIX,keepcdn.com
+DOMAIN-SUFFIX,xoyo.com
 DOMAIN-SUFFIX,xoyocdn.com
 DOMAIN-SUFFIX,geetest.com
 DOMAIN-SUFFIX,cbjq.com
@@ -8,3 +9,5 @@ DOMAIN-SUFFIX,azureedge.net
 DOMAIN-SUFFIX,azureedge.us
 DOMAIN-SUFFIX,msedge.net
 DOMAIN-SUFFIX,xgsdk.com
+
+# static-ecst.licdn.com
